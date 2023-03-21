@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-Used it teaching Git.
+A tasty and healthy Guacamole recipe to satiate your spice buds!
